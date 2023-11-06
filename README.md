@@ -10,8 +10,12 @@
 - [Capcut]
 - [Souncloud]
 
-
-
+<h3>Criação</h3>
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Midjourney Para gerar capas
+- Capcut para tratar aúdio e adicionar sons de fundo
+- Soudclou para publicar
 
 
 
