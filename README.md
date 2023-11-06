@@ -17,7 +17,7 @@
 <p>- Capcut para tratar aúdio e adicionar sons de fundo</p>
 <p>- soundcloud para publicar</p>
 
-<h3>Podcast no Soundclou</h3>
+<h3>Podcast no Soundcloud</h3>
 <p>https://on.soundcloud.com/UTmLE</p>
 
 
