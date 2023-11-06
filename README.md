@@ -4,10 +4,11 @@
 
 <h3>Tecnologias utilizadas no projeto</h3>
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [ChatGPT]
+- [MidJourney]
+- [ElevenLabs]
+- [Capcut]
+- [Souncloud]
 
 
 
@@ -22,7 +23,7 @@
 
 
 
-<p></p>p
+<p></p>
 <h1></h1>
 
 
