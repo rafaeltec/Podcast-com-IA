@@ -11,11 +11,11 @@
 - [Souncloud]
 
 <h3>Criação</h3>
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-- Soudclou para publicar
+<p>- Roteiro gerado via chatgpt</p>
+<p>- Audio gerado pela elevenLabs</p>
+<p>- Midjourney Para gerar capas</p>
+<p>- Capcut para tratar aúdio e adicionar sons de fundo</p>
+<p>- Soudclou para publicar</p>
 
 
 
