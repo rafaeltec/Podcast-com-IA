@@ -15,7 +15,7 @@
 <p>- Audio gerado pela elevenLabs</p>
 <p>- Midjourney Para gerar capas</p>
 <p>- Capcut para tratar aúdio e adicionar sons de fundo</p>
-<p>- Soudclou para publicar</p>
+<p>- soundcloud para publicar</p>
 
 
 
