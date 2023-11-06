@@ -2,7 +2,7 @@
 <h2>Criando um podcast com inteligencia artificial, do roteiro até a sintetização do áudio por prompt</h1>
 <h3></h3>
 
-#Tecnologias utilizadas no projeto
+<h3>Tecnologias utilizadas no projeto</h3>
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
